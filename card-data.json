@@ -1,0 +1,172 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-28T21:32:04.388Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Chris",
+      "lname": "Gadd",
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": "Doulton Commercial Insurance Services",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "16 Sherwood Way, West Wickham, Kent",
+      "city": "",
+      "state": "",
+      "postal": "BR4 9PD",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/bwBYY3Mc/10087-(1).png",
+      "shareImg": "https://i.postimg.cc/bwBYY3Mc/10087-(1).png",
+      "bookMarkImg": "https://i.postimg.cc/bwBYY3Mc/10087-(1).png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#154d77",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#154d77",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#63baea",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "Office",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "02087772626",
+        "label": "Your Office Number"
+      },
+      {
+        "name": "Mobile",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "07930454309",
+        "label": "Your Mobile Number"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447930454309",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "chris@doultoncis.com",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://doultoncis.com/",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/doulton_cis",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "linkedin",
+        "placeholder": "https://linkedin.com/in/UserName",
+        "value": "https://www.linkedin.com/company/doultoncis/",
+        "color": "#0077b5",
+        "label": "Your Linkedin URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/doultoncis/",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Review us on TrustIndex!",
+            "link": "https://www.trustindex.io/reviews/doultoncis.com",
+            "contentType": "customButton"
+          },
+          {
+            "label": "Review us on Google!",
+            "link": "https://g.page/r/Cb3BsqoVubxnEBM/review",
+            "contentType": "customButton"
+          },
+          {
+            "name": "ChatGPT Image May 28, 2026, 10_28_43 PM.png",
+            "title": "ChatGPT Image May 28, 2026, 10_28_43 PM",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/chatgpt_image_may_28,_2026,_10_28_43_pm.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
